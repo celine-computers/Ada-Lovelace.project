@@ -1,1 +1,1 @@
-https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_Lovelace_portrait.jpg
+<img>https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_Lovelace_portrait.jpg</img>
