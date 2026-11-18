@@ -1,1 +1,1 @@
-<img>https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_Lovelace_portrait.jpg</img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace by Alfred Edward Chalon">
